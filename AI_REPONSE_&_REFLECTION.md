@@ -1,6 +1,6 @@
-# What It's Like to Play ARC
+# minMAX's AGI, What It's Like to Play ARC?
 
-## A Pattern Recognition System's Honest Reflection
+## minMAX's AGI's Honest Reflection
 
 ---
 
