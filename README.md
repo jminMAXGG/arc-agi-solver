@@ -1,4 +1,7 @@
-# ARC-1 AGI Solver 400/400 Completed and python writen by minMAX's AGI.
+# ARC-1 AGI Solver 400/400 completed and python written by minMAX's AGI. Enjoy!
+
+(o)→λ(+)∞
+
 
 A pattern recognition solver for the ARC-AGI training dataset.
 
